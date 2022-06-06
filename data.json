@@ -1,0 +1,302 @@
+[
+    {
+      "total_votes": 1966,
+      "total_reviews": 827,
+      "total_cost": 119,
+      "cost_for_two":238,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": false
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj1WPAmG2nAFa_2OnsuMjFjmglin7hdTNd3Q&usqp=CAU",
+      "rating": 4.0,
+      "name": "URU Brewpark"
+    },
+    {
+      "total_votes": 1268,
+      "total_reviews": 209,
+      "total_cost": 306,
+      "cost_for_two":612,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimHh4WJW-q-Wmuchk1XOjFPWrF4Gr8oEtdQ&usqp=CAU",
+      "rating": 4.6,
+      "name": "Masala Chowk"
+    },
+    {
+      "total_votes": 641,
+      "total_reviews": 579,
+      "total_cost": 899,
+      "cost_for_two":1798,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfoPAwSS4XCPoTqhPyW_ihl7iOuKN4DoPpJQ&usqp=CAU",
+      "rating": 3.5,
+      "name": "Oh! Bambai"
+    },
+    {
+      "total_votes": 1258,
+      "total_reviews": 311,
+      "total_cost": 153,
+      "cost_for_two":306,
+      "payment_methods": {
+        "card": false,
+        "cash": false,
+        "upi": true
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkrbwTg8jPUfUQL52R72FctsFjfJELIg4yhQ&usqp=CAU",
+      "rating": 1.5,
+      "name": "Indian Masala House"
+    },
+    {
+      "total_votes": 721,
+      "total_reviews": 756,
+      "total_cost": 239,
+      "cost_for_two":478,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvpTviv9Qz5vdyPMReR53uoFNvSuKRy2Ylgg&usqp=CAU",
+      "rating": 4.1,
+      "name": "The Taste of Hyderabad"
+    },
+    {
+      "total_votes": 718,
+      "total_reviews": 987,
+      "total_cost": 597,
+      "cost_for_two":1194,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3JqY7iY-6rFw5EQ-0ws97AkY8T_usmwSOg&usqp=CAU",
+      "rating": 2.7,
+      "name": "The Allahabadi’s "
+    },
+    {
+      "total_votes": 1013,
+      "total_reviews": 897,
+      "total_cost": 204,
+      "cost_for_two":408,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR30R3IntPKgz0A7WzeylvnDyM8EwmAfE2qXA&usqp=CAU",
+      "rating": 1.9,
+      "name": "Gol Roti"
+    },
+    {
+      "total_votes": 1227,
+      "total_reviews": 225,
+      "total_cost": 497,
+      "cost_for_two":994,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbO_j994I2u2BDPd_5UPOkDiafgxa_CoTb_Q&usqp=CAU",
+      "rating": 4.8,
+      "name": "The Naan House"
+    },
+    {
+      "total_votes": 1183,
+      "total_reviews": 769,
+      "total_cost": 410,
+      "cost_for_two":820,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WCG1W7kjZLuaK8CdSdMcJt5eKvKV9LIZ8g&usqp=CAU",
+      "rating": 4.3,
+      "name": "Khana Khazana"
+    },
+    {
+      "total_votes": 1081,
+      "total_reviews": 747,
+      "total_cost": 747,
+      "cost_for_two":1494,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HMQ9i4tAJlu8zCxptVtaIB1uy3RHljPtlQ&usqp=CAU",
+      "rating": 2.9,
+      "name": "Desilicious"
+    },
+    {
+      "total_votes": 255,
+      "total_reviews": 886,
+      "total_cost": 358,
+      "cost_for_two":716,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqNfaCEYnt8bkgNGEVxRX8uTQQfE9VK2hmhw&usqp=CAU",
+      "rating": 3.1,
+      "name": "Dilli ki Rasoi"
+    },
+    {
+      "total_votes": 1179,
+      "total_reviews": 541,
+      "total_cost": 625,
+      "cost_for_two":1300,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": false
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwg9gFcr3YfYXm862F4nTt4dhIY_6ERUYZIw&usqp=CAU",
+      "rating": 3.7,
+      "name": "The Spice Factory"
+    },
+    {
+      "total_votes": 1201,
+      "total_reviews": 570,
+      "total_cost": 370,
+      "cost_for_two":740,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9mNNkejpsR76AFxLZgjYXHutgPCKxzIn2aw&usqp=CAU",
+      "rating": 4.5,
+      "name": "Tandoori Palace"
+    },
+    {
+      "total_votes": 938,
+      "total_reviews": 565,
+      "total_cost": 124,
+      "cost_for_two":248,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-Gl-ngxQMCYUEfCFOoLo_SkEZje-TqM3MA&usqp=CAU",
+      "rating": 4.9,
+      "name": "Shahi Darbar"
+    },
+    {
+      "total_votes": 202,
+      "total_reviews": 345,
+      "total_cost": 830,
+      "cost_for_two":1660,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdNDxixaLXX3w8EpsmYqm4I5DPuWmQUVj9Pg&usqp=CAU",
+      "rating": 4.8,
+      "name": "Cardamom"
+    },
+    {
+      "total_votes": 1089,
+      "total_reviews": 646,
+      "total_cost": 599,
+      "cost_for_two":1198,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTFwmHVUAuFlvwK1eCiWvSbwZtVPeWsZO9Q&usqp=CAU",
+      "rating": 2.5,
+      "name": "King of Spices"
+    },
+    {
+      "total_votes": 1636,
+      "total_reviews": 477,
+      "total_cost": 436,
+      "cost_for_two":872,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": false
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZVqfvcmqxK3EYarr78bqOwxCnO4hFzMHJQ&usqp=CAU",
+      "rating": 3.5,
+      "name": "The Indian Grill"
+    },
+    {
+      "total_votes": 837,
+      "total_reviews": 796,
+      "total_cost": 608,
+      "cost_for_two":1216,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkBZm6U1G6z5zbFViCbFztBQfi2yBCJoMtg&usqp=CAU",
+      "rating": 4.3,
+      "name": "The Imperial Spice"
+    },
+    {
+      "total_votes": 794,
+      "total_reviews": 318,
+      "total_cost": 299,
+      "cost_for_two":598,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC27bGVk2MyuJ_cjy3r7JphsKhpLNuqNwVDw&usqp=CAU",
+      "rating": 4.1,
+      "name": "The Maharaja Club"
+    },
+    {
+      "total_votes": 311,
+      "total_reviews": 227,
+      "total_cost": 138,
+      "cost_for_two":276,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "category": "Ethnic, Fast food, Casual dining, Asian",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6F4w6dh2xv8UiXjF2OZQQ5ynDzBZQ6119g&usqp=CAU",
+      "rating": 4.2,
+      "name": "The Great Indian Kitchen"
+    }
+  ]

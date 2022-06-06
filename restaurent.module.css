@@ -1,0 +1,147 @@
+.top_container{
+    /* border:2px dashed black; */
+    max-width:90%;
+    margin: 1.5rem auto;
+    height:12vh;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    
+
+}
+.top_container>div{
+  max-width:22%;
+  height:80%;
+  
+  /* border:1px dashed green; */
+}
+.container{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    /* border:1px solid red; */
+    max-width:90%;
+    margin:0.5rem auto;
+    background-color: rgba(226, 214, 214,0.2);
+}
+.parent{
+    /* border:1px dashed blue; */
+    margin:1.5rem;
+    border-radius: 10px 10px 0 0;
+    height:300px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+   
+}
+.parent:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.top{
+  /* border:1px solid green; */
+  height:75%;
+  max-width:98%;
+  margin:2px;
+ 
+}
+.box{
+    height:80%;
+    max-width:100%;
+    /* border:1px dashed black; */
+    display:flex;
+    margin:auto;
+}
+.left{
+  /* border:1px solid rgb(128, 0, 115); */
+  height:100%;
+  max-width:28%;
+  margin:2px;  
+}
+.left>img{
+    height:95%;
+    max-width:100%;
+
+}
+.right{
+   /* border:1px solid rgb(128, 58, 0); */
+   height:100%;
+   max-width:20%;
+   margin:2px; 
+}
+
+.middle{
+    /* border:1px solid rgb(236, 232, 41); */
+    height:100%;
+    max-width:55%;
+    margin:2px;
+}
+.down{
+    /* border:1px solid rgb(93, 203, 225); */
+    height:20%;
+    max-width:98%;
+    margin:2px;
+    display:flex;
+    justify-content:flex-end;
+    align-items:center;
+}
+.down>div{
+    max-width:30%;
+    display:flex;
+    background-color:rgb(216, 221, 209);
+    font-size:20px;
+    height:90%;
+    justify-content: center;
+    align-items:center;
+    color:rgb(8, 84, 8);
+    text-decoration: underline; 
+}
+.button{
+    background-color:green;
+    border: none;
+    padding:8px 15px;
+    color:white;
+    margin:10px;
+    font: size 20px;
+}
+.name{
+    color:red;
+    margin:0;
+    font: size 20px;
+    text-align: left;
+    padding-left:1rem;
+}
+.light{
+    margin:0px;
+    color:grey;
+     text-align: left;
+     padding-left:1rem;
+
+}
+.dark{
+    margin:0px;
+      text-align: left;
+      padding-left:1rem ;  
+     
+}
+
+.dark>span{
+    color:orangered;
+}
+.vote{
+    margin:0px;
+    color:grey;
+    font: size 15px;
+}
+.select{
+    padding:1rem 0.5rem;
+    border:none;
+    font-size:20px;
+    background-color:rgb(79, 208, 210);
+    margin-top:7px;
+    border-radius: 10px;
+}
+.select:hover{
+    background-color:yellow;
+}
+.heading{
+    text-transform:uppercase;
+    background-color:pink;
+    text-shadow: -5px 9px 7px rgba(118,42,42,0.5);
+}
